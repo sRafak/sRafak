@@ -5,7 +5,7 @@ Hi, there!
 Some facts about me:
 
 - 🔭 I’m currently a physics undergrad
-- 📚 I've made a pause on programimg to focus on my graduation, but at the moment I'm learning python
+- 📚 I took a pause on programming to focus on my studies, but at the moment I'm learning Python
 - 💻 I'm really interested in game dev, back-end and front-end
 
 
